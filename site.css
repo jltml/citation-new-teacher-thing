@@ -1,0 +1,31 @@
+@import "/Avenir/style.css";
+
+body {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-wrap: wrap;
+  padding: 5px;
+  font-family: Avenir;
+}
+.one, .two, .three, .four, .five, .six, .seven, .eight, .nine {
+  padding: 5px;
+  justify-content: center;
+}
+body img {
+  max-width: 250px;
+  border-radius: 30px;
+}
+.name {
+  text-align: center;
+}
+.name h3 {
+  margin-top: 7px;
+  margin-bottom: 0;
+}
+.stuff {
+  margin-bottom: 15px;
+}
+.stuff * {
+  word-wrap: break-word;
+}

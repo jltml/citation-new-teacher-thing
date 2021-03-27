@@ -1,5 +1,5 @@
 /* @import "/Avenir/style.css"; */
-@import "Brandon-Grotesque/style.css";
+@import "/Brandon-Grotesque/Brandon-Grotesque.css";
 body {
   display: flex;
   justify-content: center;
